@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xinxin2021.github.io/download/</id>
+    <id>https://download.xinxin2021.tk</id>
     <title>鑫鑫Xinxin的下载站</title>
-    <updated>2022-03-06T08:45:23.945Z</updated>
+    <updated>2022-03-11T12:29:40.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xinxin2021.github.io/download/"/>
-    <link rel="self" href="https://xinxin2021.github.io/download/atom.xml"/>
+    <link rel="alternate" href="https://download.xinxin2021.tk"/>
+    <link rel="self" href="https://download.xinxin2021.tk/atom.xml"/>
     <subtitle>这里有一些好♂康的东西</subtitle>
-    <logo>https://xinxin2021.github.io/download/images/avatar.png</logo>
-    <icon>https://xinxin2021.github.io/download/favicon.ico</icon>
+    <logo>https://download.xinxin2021.tk/images/avatar.png</logo>
+    <icon>https://download.xinxin2021.tk/favicon.ico</icon>
     <rights>All rights reserved 2022, 鑫鑫Xinxin的下载站</rights>
     <entry>
         <title type="html"><![CDATA[MarkDown入门教程源文档下载]]></title>
-        <id>https://xinxin2021.github.io/download/markdown/</id>
-        <link href="https://xinxin2021.github.io/download/markdown/">
+        <id>https://download.xinxin2021.tk/markdown/</id>
+        <link href="https://download.xinxin2021.tk/markdown/">
         </link>
         <updated>2021-11-18T01:53:58.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[RaiDrive和WebDav下载/备份]]></title>
-        <id>https://xinxin2021.github.io/download/rai&amp;alidri/</id>
-        <link href="https://xinxin2021.github.io/download/rai&amp;alidri/">
+        <id>https://download.xinxin2021.tk/rai&amp;alidri/</id>
+        <link href="https://download.xinxin2021.tk/rai&amp;alidri/">
         </link>
         <updated>2021-10-16T01:52:34.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[三体相关视频下载/备份]]></title>
-        <id>https://xinxin2021.github.io/download/threebody/</id>
-        <link href="https://xinxin2021.github.io/download/threebody/">
+        <id>https://download.xinxin2021.tk/threebody/</id>
+        <link href="https://download.xinxin2021.tk/threebody/">
         </link>
         <updated>2021-10-06T01:51:12.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的三体(节选)下载/备份]]></title>
-        <id>https://xinxin2021.github.io/download/mythreebody/</id>
-        <link href="https://xinxin2021.github.io/download/mythreebody/">
+        <id>https://download.xinxin2021.tk/mythreebody/</id>
+        <link href="https://download.xinxin2021.tk/mythreebody/">
         </link>
         <updated>2021-10-06T01:45:06.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[MC系列动画下载/备份]]></title>
-        <id>https://xinxin2021.github.io/download/minecraft/</id>
-        <link href="https://xinxin2021.github.io/download/minecraft/">
+        <id>https://download.xinxin2021.tk/minecraft/</id>
+        <link href="https://download.xinxin2021.tk/minecraft/">
         </link>
         <updated>2021-10-06T01:37:14.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github代码下载/备份]]></title>
-        <id>https://xinxin2021.github.io/download/github/</id>
-        <link href="https://xinxin2021.github.io/download/github/">
+        <id>https://download.xinxin2021.tk/github/</id>
+        <link href="https://download.xinxin2021.tk/github/">
         </link>
         <updated>2021-10-06T01:32:54.000Z</updated>
     </entry>
